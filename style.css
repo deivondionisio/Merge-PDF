@@ -38,4 +38,7 @@
     background-color: rgb(248, 159, 25);
 }
 
-background-image: url(/imagens/img01.jpg);
+#mapa {
+    height:400px;
+    width:400px;
+  }
