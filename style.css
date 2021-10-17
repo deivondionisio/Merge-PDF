@@ -43,9 +43,17 @@
     width:400px;
   }
 
-  #tudo{
+#tudo{
     background-image:url(imagens/img01.jpg);
     width:100%;
     height:992px;
    }
-   <div id="tudo">Conteúdo da div</div>  
+
+body {
+        background-image: url('imagens/img01.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+   
+    
